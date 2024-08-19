@@ -37,3 +37,8 @@ def operation(x,y,z):
     ops = x+y/z
     print("Total:", ops)
 operation(1, 2, 3)
+
+def Division(x,y):
+    div = x/y
+    print("division:", div)
+Division(5,17)
