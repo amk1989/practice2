@@ -42,3 +42,8 @@ def Division(x,y):
     div = x/y
     print("division:", div)
 Division(5,17)
+
+def Division(x,y):
+    div = x/y
+    print("division:", div)
+Division(5,17)

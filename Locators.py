@@ -12,8 +12,9 @@ capabilities = dict(
     appPackage='com.hhaexchange.uma',
     appActivity='crc6496ce20f433df0767.MainActivity',
     language='en',
-    locale='US'
-)
+    locale='US',
+    autoGrantPermissions='True'
+    )
 appium_server_url = 'http://127.0.0.1:4723'
 
 
